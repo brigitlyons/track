@@ -1,0 +1,22 @@
+# OSX finder
+.DS_Store
+
+# IntelliJ
+.idea
+classes
+*.iml
+out
+tmp
+gen
+.externalNativeBuild
+
+# gradle
+.gradle
+build
+local.properties
+
+# Heap dumps
+/captures
+
+# vim
+*.swp
